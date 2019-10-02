@@ -1,9 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Text;
 
 namespace BusinessLayer.DTO
 {
+    /// <summary>
+    /// Users data transfer objects in BusinessLayer
+    /// </summary>
     public class UserDTO
     {
         /// <summary>

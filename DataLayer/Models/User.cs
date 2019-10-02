@@ -5,6 +5,9 @@ using System.Text;
 
 namespace DataLayer.Models
 {
+    /// <summary>
+    /// Users class in DataLayer
+    /// </summary>
     public class User
     {
         /// <summary>

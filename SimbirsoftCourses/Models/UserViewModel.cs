@@ -1,11 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
 namespace SimbirsoftCourses.Models
 {
-    public class User
+    /// <summary>
+    /// Users class in PresentationLayer
+    /// </summary>
+    public class UserViewModel
     {
         /// <summary>
         /// Users account identificator
