@@ -4,7 +4,7 @@ using FluentMigrator;
 
 namespace SimbirsoftCourses
 {
-    public class Program:
+    public class Program
     {
        
         
